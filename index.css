@@ -1,0 +1,64 @@
+body{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(76, 172, 231);
+}
+
+#header{
+    background-color: white;
+    color: rgb(76, 172, 231);
+    padding: 20px;
+    text-align: center;
+}
+
+#containerDiv{
+    background-color: white;
+    width: 40%;
+    color: black;
+    padding: 10px;
+    margin: auto;
+    border: 5px;
+}
+
+input{
+    padding: 10px;
+    border: 5px;
+    width: 70%;
+    border-color:rgb(76, 172, 231);
+    
+
+}
+
+#addButton{
+padding: 10px;
+background-color: rgb(48, 53, 202);
+color: white;
+width: 18%;
+margin-left: 6%;
+border-radius: 5px;
+}
+
+#listParent{
+    margin-top: 30px;
+    list-style: none;
+    list-style-position: none;
+    margin-left: 0%;
+    padding: 0%;
+    
+}
+
+li{
+    background-color: rgb(127, 204, 255);
+    color: black;
+    list-style: none;
+    width:96%;
+    padding: 10px;
+}
+
+.trash{
+    background-color: rgb(48, 53, 202);
+    color: white;
+    margin-left: 88%;
+
+}
